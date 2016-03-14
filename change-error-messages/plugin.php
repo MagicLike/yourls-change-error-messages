@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Change error messages
-Plugin URI: http://code.google.com/p/yourls-change-error-messages/
+Plugin URI: https://github.com/adigitalife/yourls-change-error-messages
 Description: This plugin changes the error messages when a keyword or url already exists.  If a keyword already exists, the error message will display the URL for that keyword.  If the URL already exists, the share box will be displayed.
 Version: 1.2
 Author: Aylwin
